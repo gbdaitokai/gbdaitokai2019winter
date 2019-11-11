@@ -2,3 +2,6 @@
 * [岡山Javaユーザ会](https://okajug.doorkeeper.jp/)
 * [Flutter Japan User Group](https://flutter-jp.connpass.com/)
 * [Okayama.go](https://okayamago.connpass.com/)
+* [JBUG広島 , JBUG岡山](https://jbug.connpass.com/)
+* [すごい広島](https://great-h.connpass.com/)
+* [JISTA&IIBA in HIROSHIMA](https://jista-iiba-hiroshima.connpass.com/)
