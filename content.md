@@ -86,7 +86,7 @@ GraphQLは、Web APIのためのスキーマ言語、クエリ言語です。
 
 ## 登壇者
 
-中道 一志 (@ici_mici)
+中道 一志 (@ici_mici) / JBUG広島リーダー
 
 ## 概要
 
