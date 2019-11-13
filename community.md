@@ -5,3 +5,4 @@
 * [JBUG広島 , JBUG岡山](https://jbug.connpass.com/)
 * [すごい広島](https://great-h.connpass.com/)
 * [JISTA&IIBA in HIROSHIMA](https://jista-iiba-hiroshima.connpass.com/)
+* [JAWS-UG広島](https://jawsug-hiroshima.doorkeeper.jp/)
