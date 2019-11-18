@@ -105,3 +105,19 @@ Ryuji Iwata (@qt_luigi)
 ## 概要
 
 モバイルアプリSDKとして開発されてきた「Flutter」が進化を遂げようとしています。これからの道筋、特徴、開発に関する情報などをお話しさせて頂きます！q@v@p / 2019年の日本のGoコミュニティイベントは全国的な広がりを見せました。簡単にですが私目線でGo紹介させて頂きます！q@w@p
+
+***
+
+## タイトル
+
+WindowsデスクトップでWeb開発
+
+## 登壇者
+
+大中 浩行(@setoazusa) / Microsoft MVP for Developer Technologies
+
+## 概要
+
+Webフロントエンドの開発環境はmacOSが多数派を占めてきましたが、Windows(10)も大型アップデートを繰り返す中で、Visual Studio Code(VSCode)との組み合わせで開発環境として必要な機能が揃うようになってきました。
+
+このセッションではRemote WSLやVagrant on Hyper-Vなどの最新動向を通じて、成長し続ける最新デスクトップOSのポテンシャルをお伝えします。
