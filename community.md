@@ -6,3 +6,4 @@
 * [すごい広島](https://great-h.connpass.com/)
 * [JISTA&IIBA in HIROSHIMA](https://jista-iiba-hiroshima.connpass.com/)
 * [JAWS-UG広島](https://jawsug-hiroshima.doorkeeper.jp/)
+* [Japan Java Users Group](http://www.java-users.jp/)

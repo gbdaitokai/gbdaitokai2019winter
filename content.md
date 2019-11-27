@@ -163,3 +163,25 @@ Ryuji Iwata (@qt_luigi)
 ## 概要
 
 モバイルアプリSDKとして開発されてきた「Flutter」が進化を遂げようとしています。これからの道筋、特徴、開発に関する情報などをお話しさせて頂きます！q@v@p / 2019年の日本のGoコミュニティイベントは全国的な広がりを見せました。簡単にですが私目線でGo紹介させて頂きます！q@w@p
+
+***
+
+## タイトル
+
+Spring Boot アプリの運用が楽になる？  
+Pivotal と Microsoft が共同開発した専用 PaaS「Azure Spring Cloud」のご紹介 !!
+
+## 登壇者
+
+Yoshio Terada (@yoshioterada)
+
+## 概要
+
+Cloud 上で Spring Boot のアプリケーションを公開する際、実行環境として IaaS、PaaS, Container, Kubernetes など様々な選択肢があります。  
+マイクロソフトと Pivotal は 2019 年 10 月アメリカで開催された SpringOne のイベントで「Azure Spring Cloud」という、Spring Boot のアプリケーションに特化した PaaS の環境を発表しました（現時点でプレビュー版）。  
+アプリケーションは Kubernetes 上で動作しますが、Kubernetes を一切意識することなく開発により集中できます。さらに、GitHub Action でワークフローを定義する事でかんたんに CI/CD 環境を構築することもできます。  
+小規模から中規模レベルのマイクロサービスを構築する際、運用をとても楽にする Azure Spring Cloud をデモを交えながらご紹介します。
+
+
+
+
