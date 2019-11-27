@@ -154,6 +154,24 @@ Webフロントエンドの開発環境はmacOSが多数派を占めてきまし
 
 ## タイトル
 
+Spring Boot アプリの運用が楽になる？  
+Pivotal と Microsoft が共同開発した専用 PaaS「Azure Spring Cloud」のご紹介 !!
+
+## 登壇者
+
+Yoshio Terada (@yoshioterada)
+
+## 概要
+
+Cloud 上で Spring Boot のアプリケーションを公開する際、実行環境として IaaS、PaaS, Container, Kubernetes など様々な選択肢があります。  
+マイクロソフトと Pivotal は 2019 年 10 月アメリカで開催された SpringOne のイベントで「Azure Spring Cloud」という、Spring Boot のアプリケーションに特化した PaaS の環境を発表しました（現時点でプレビュー版）。  
+アプリケーションは Kubernetes 上で動作しますが、Kubernetes を一切意識することなく開発により集中できます。さらに、GitHub Action でワークフローを定義する事でかんたんに CI/CD 環境を構築することもできます。  
+小規模から中規模レベルのマイクロサービスを構築する際、運用をとても楽にする Azure Spring Cloud をデモを交えながらご紹介します。
+
+***
+
+## タイトル
+
 Evolving Flutter / Japan Go community events 2019
 
 ## 登壇者
