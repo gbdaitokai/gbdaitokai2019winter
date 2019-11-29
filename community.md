@@ -7,3 +7,4 @@
 * [JISTA&IIBA in HIROSHIMA](https://jista-iiba-hiroshima.connpass.com/)
 * [JAWS-UG広島](https://jawsug-hiroshima.doorkeeper.jp/)
 * [Japan Java Users Group](http://www.java-users.jp/)
+* [岡山自作AIの会](https://ai-okayama.connpass.com/)
